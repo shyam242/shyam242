@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Shyam Kumar</h1>
 
 <p align="center">
-  3nd Year Engineering Student | Full Stack Developer | DSA Enthusiast | ML
+  3rd Year Engineering Student | Full Stack Developer | DSA Enthusiast | ML
 </p>
 
 ---
@@ -11,7 +11,7 @@
 - ✨ Coding since 2023
 - 🌱 Currently learning System Design, AI Integrations, DSA
 - 🎯 Goals: Build full-stack real-world projects & open-source contributions
-- 🎯 Actively solving DSA problems (LeetCode, Codeforces, CodeChef)
+- 🎯 Actively solving DSA problems (LeetCode, Codeforces, Geeksforgeeks)
 - 🖥️ Check out my LeetCode: [LeetCode Profile](https://leetcode.com/shyam2402)
 
 ---
