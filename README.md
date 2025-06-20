@@ -41,7 +41,7 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=shyam242&style=flat-square&color=brightgreen" alt="Visitor Count" />
+  <img src="https://profile-counter.glitch.me/shyam242/count.svg" alt="Visitor Count" />
 </p>
 
 ---
