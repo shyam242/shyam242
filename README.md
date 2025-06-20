@@ -40,7 +40,10 @@
   <img src="https://github-readme-stats.vercel.app/api?username=shyam242&show_icons=true&theme=transparent" alt="GitHub Stats" />
 </p>
 
-![stats](https://komarev.com/ghpvc/?username=shyam242&color=green)
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=shyam242&style=flat-square&color=brightgreen" alt="Visitor Count" />
+</p>
+
 ---
 
 ## 🔗 Profiles
