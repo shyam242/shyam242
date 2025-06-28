@@ -49,7 +49,7 @@
 
 ## 🔗 Profiles
 
-- 🌐 Portfolio: [Your Portfolio Link]([https://shyam2402.netlify.app/])
+- 🌐 Portfolio: [Your Portfolio Link](https://shyam2402.netlify.app/)
 - 💼 LinkedIn: [Your LinkedIn](https://www.linkedin.com/in/shyam2402)
 - 💻 Codeforces: [Your Codeforces](https://codeforces.com/profile/shyam2402)
 - 💻 LeetCode: [Your LeetCode](https://leetcode.com/shyam2402)
