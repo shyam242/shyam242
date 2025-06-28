@@ -55,7 +55,6 @@
 - 💻 LeetCode: [Your LeetCode](https://leetcode.com/shyam2402)
 
 ---
-![Counter](https://img.shields.io/badge/visitors-500-blue)
 
 
 ## 📌 Pinned Projects
