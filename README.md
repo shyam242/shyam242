@@ -1,8 +1,25 @@
-<h1 align="center">Hi 👋, I'm Shyam Kumar</h1>
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" style="max-width: 100%; width: 800px;" />
+</p>
+
 
 <p align="center">
-  3rd Year Engineering Student | Full Stack Developer | DSA Enthusiast | ML
+  <span>
+    <a href="https://git.io/typing-svg">
+      <img src="https://readme-typing-svg.herokuapp.com?color=5EF72C&size=26&center=true&vCenter=true&lines=Hey!+This+is+shyam+kumar;I'm+a+Full+Stack+Developer;DSA+ML learner" alt="Typing SVG" />
+    </a>
+  </span>
 </p>
+
+
+
+
+
+<p align="center">
+  🎓 Electrical and electronics Engineering student at <a href="https://www.bitmesra.ac.in/">BIT Mesra</a> <br>
+  💻 Passionate about software development, problem-solving, learning & impactful tech solutions
+</p>
+
 
 ---
 
