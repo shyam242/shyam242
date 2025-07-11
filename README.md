@@ -79,7 +79,7 @@
 ## 💻 Competitive Programming
 
 ### 🔸 Codeforces  
-[![Codeforces](https://cf.leed.at?id=sumitksr)](https://codeforces.com/profile/shyam2402)
+[![Codeforces](https://cf.leed.at?id=shyam2402r)](https://codeforces.com/profile/shyam2402)
 
 ---
 
