@@ -71,7 +71,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shyam2402&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shyam242&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 
 ![shyam's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=shyam242&bg_color=000000&color=8c8aff&line=5257ff&point=38e8ff&area=true&hide_border=true)
