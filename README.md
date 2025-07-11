@@ -75,6 +75,12 @@
 </p>
 
 ---
+## 💻 Competitive Programming
+
+### 🔸 Codeforces  
+[![Codeforces](https://cf.leed.at?id=sumitksr)](https://codeforces.com/profile/sumitksr)
+
+---
 
 ## 🔗 Profiles
 
