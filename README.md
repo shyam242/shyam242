@@ -51,6 +51,18 @@
 </p>
 
 ---
+## 🧠 LeetCode Stats
+
+- 👨‍💻 Solved ***500+ problems on all platforms***
+- 💪 Focused on mastering **Data Structures & Algorithms**
+
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/shyam2402)
+
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/shyam2402?theme=dark&font=Fira+Code&ext=heatmap" />
+</p>
+
+---
 
 ## 📊 My GitHub Stats
 
