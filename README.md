@@ -93,14 +93,6 @@
 ---
 
 
-## 📌 Pinned Projects
-
-- [ Clinex - Health Assistant](https://github.com/YOUR_REPO)
-- [🎵 Musify - Spotify Clone](https://github.com/YOUR_REPO)
-- [📱 Learnify - A blog website](https://github.com/YOUR_REPO)
-
----
-
 ## ⚡ Fun Fact:
 > I love building real-world projects that solve real problems and love coding.
 
