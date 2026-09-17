@@ -74,7 +74,9 @@
   <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=shyam242&layout=compact&theme=radical" />
 </p>
 
-![shyam's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=shyam242&bg_color=000000&color=8c8aff&line=5257ff&point=38e8ff&area=true&hide_border=true)
+<p align="center">
+  <img src="https://github-readme-streak-stats-eight.vercel.app/?user=shyam242&theme=dark&hide_border=true" />
+</p>
 ---
 ## 💻 Competitive Programming
 
