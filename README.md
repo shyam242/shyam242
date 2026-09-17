@@ -70,25 +70,19 @@
 ## 📊 My GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=shyam242&show_icons=true&theme=radical&hide_border=true&count_private=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shyam242&layout=compact&theme=radical&hide_border=true" />
+  <img src="https://img.shields.io/github/followers/shyam242?label=Followers&style=for-the-badge&logo=github&color=2CFAF4" />
+  <img src="https://img.shields.io/github-users-stars/shyam242?label=Total%20Stars&style=for-the-badge&logo=github&color=2CFAF4" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shyam242&theme=radical&hide_border=true" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=shyam242&theme=radical&hide_border=true" alt="GitHub Streak" />
 </p>
 
-### 📈 Contribution Activity Graph
+> ℹ️ The fancier stats + top-languages card and the trophy row you might have seen on other profiles usually come from `github-readme-stats.vercel.app` and `github-profile-trophy.vercel.app`. Both are currently down at the source (the maintainers' shared free instance is overloaded/paused as of this week — it's a known, ongoing issue, not specific to your account). The badges above use `shields.io` and `streak-stats.demolab.com`, which are separately hosted and currently working. If you want the richer card back later, the reliable fix is self-hosting your own copy via a GitHub Action — happy to set that up with you when you're ready.
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=shyam242&theme=react-dark&hide_border=true&area=true" alt="Contribution Graph" />
-</p>
+### 📈 Contribution Graph
 
-### 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=shyam242&theme=radical&no-frame=true&row=1&column=7" alt="GitHub Trophies" />
-</p>
+No embed needed here — GitHub automatically renders your contribution graph on your profile page itself, since this is your special `shyam242/shyam242` profile repo. It'll show up right below this README once you push it, with zero third-party dependency.
 
 ### 🐍 Contribution Snake
 
@@ -109,7 +103,7 @@
 
 <p align="center">
   <a href="https://codeforces.com/profile/shyam2402">
-    <img src="https://cfrating.vercel.app/?username=shyam2402" alt="Codeforces rating" />
+    <img src="https://cfrating.baoshuo.dev/rating?username=shyam2402" alt="Codeforces rating" />
   </a>
 </p>
 
