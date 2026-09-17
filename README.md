@@ -7,11 +7,6 @@
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=26&pause=1000&center=true&vCenter=true&color=2CFAF4&width=500&lines=Hey!+This+is+Shyam+Kumar;I'm+a+Full+Stack+Developer" alt="Typing introduction" />
   </a>
 </p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=shyam242&label=Profile%20Views&color=2CFAF4&style=for-the-badge" alt="Profile views" />
-</p>
-
 ---
 
 <p align="center">
@@ -80,19 +75,6 @@
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=shyam242&theme=radical&hide_border=true" alt="GitHub contribution streak" />
 </p>
-
----
-
-## 💻 Competitive Programming
-
-### 🔸 Codeforces
-
-<p align="center">
-  <a href="https://codeforces.com/profile/shyam2402">
-    <img src="https://cfrating.baoshuo.dev/rating?username=shyam2402" alt="Codeforces rating" />
-  </a>
-</p>
-
 ---
 
 ## 🔗 Profiles
@@ -107,7 +89,3 @@
 ## ⚡ Fun Fact
 
 > I love building real-world projects that solve real problems and love coding.
-
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="500" alt="Coding animation" />
-</p>
