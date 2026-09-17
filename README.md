@@ -67,12 +67,11 @@
 ## 📊 My GitHub Stats
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shyam242&theme=github_dark" />
+  <img src="https://github-stats-extended.vercel.app/api?username=shyam242&show_icons=true&theme=transparent" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=shyam242&theme=github_dark" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=shyam242&theme=github_dark" />
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=shyam242&layout=compact&theme=radical" />
 </p>
 
 ![shyam's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=shyam242&bg_color=000000&color=8c8aff&line=5257ff&point=38e8ff&area=true&hide_border=true)
@@ -96,4 +95,3 @@
 
 ## ⚡ Fun Fact:
 > I love building real-world projects that solve real problems and love coding.
-
