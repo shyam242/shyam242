@@ -67,11 +67,12 @@
 ## 📊 My GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shyam242&show_icons=true&theme=transparent" alt="GitHub Stats" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shyam242&theme=github_dark" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shyam242&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=shyam242&theme=github_dark" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=shyam242&theme=github_dark" />
 </p>
 
 ![shyam's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=shyam242&bg_color=000000&color=8c8aff&line=5257ff&point=38e8ff&area=true&hide_border=true)
