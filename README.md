@@ -47,7 +47,7 @@
 
 ## 🧠 LeetCode Stats
 
-- 👨‍💻 Solved **500+ problems** across all platforms
+- 👨‍💻 Solved **900+ problems** across all platforms
 - 💪 Focused on mastering **Data Structures & Algorithms**
 
 <p align="center">
